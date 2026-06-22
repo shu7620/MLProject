@@ -222,3 +222,5 @@ __marimo__/
 main.py
 pyproject.toml
 uv.lock
+artifacts/
+logs/
