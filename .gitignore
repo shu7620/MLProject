@@ -224,3 +224,4 @@ pyproject.toml
 uv.lock
 artifacts/
 logs/
+catboost_info/
